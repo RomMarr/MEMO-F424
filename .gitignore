@@ -1,0 +1,6 @@
+# MacOS
+.DS_Store
+
+#Folders not used
+Examples/
+Trash/
