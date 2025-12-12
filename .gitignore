@@ -4,3 +4,7 @@
 #Folders not used
 Examples/
 Trash/
+
+# Files generated during training
+*.pickle
+*.hdf5
