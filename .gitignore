@@ -5,6 +5,11 @@
 Examples/
 Trash/
 
+# Notebooks to test ideas
+notes.ipynb
+DP.ipynb
+
+
 # Files generated during training
 *.pickle
 *.hdf5
