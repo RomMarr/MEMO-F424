@@ -1,4 +1,4 @@
-# MEMO-F424
+# MEMO-F524
 Code for master's thesis on Machine learning for seismometers placement optimization
 
 
